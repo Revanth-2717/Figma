@@ -80,14 +80,14 @@ page 4:
   <div style="left: 83px; top: 168px; position: absolute; text-align: center; color: black; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">THANK YOU</div>
   <div style="width: 267px; left: 46px; top: 253px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">We are all eagerly waiting for participation in sports events </div>
   <div style="left: 73px; top: 410px; position: absolute; text-align: center; color: #121BFE; font-size: 32px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">CONTACT US</div>
-  <div style="left: 22px; top: 461px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">email:abhi123@gmail.com</div>
+  <div style="left: 22px; top: 461px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">email:revaroy123@gmail.com</div>
   <div style="left: 22px; top: 502px; position: absolute; text-align: center; color: black; font-size: 24px; font-family: Inter; font-style: italic; font-weight: 800; word-wrap: break-word">phone no:9392521600</div>
 </div>
 
 ```
 
 ## OUTPUT:
-![alt text](figma.png)
+![alt text](<Screenshot 2024-05-17 230845.png>)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
